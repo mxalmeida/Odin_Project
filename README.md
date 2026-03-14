@@ -1,2 +1,2 @@
 # Odin_Project
-My progress in The Odin Project
+Here I'll post my progress in The Odin Project.
